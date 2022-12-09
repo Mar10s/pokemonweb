@@ -1,5 +1,7 @@
 <script>
-
+export default {
+components: Headers
+}
 </script>
 
 
